@@ -1,0 +1,45 @@
+html{
+    background-color: coral;
+}
+
+header, footer{
+    text-align: center;
+    font-family: Verdana;
+}
+
+section{
+    width: 100%;
+}
+
+#mensaje{
+    resize: none;
+}
+#mensaje, #usuario{
+    border-radius: 10px;
+}
+
+#mensajes{
+    background-color: white;
+    width: fit-content;
+    max-width: fit-content;
+    font-size: 24px;
+    font-family: "Times New Roman";
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+
+#formulario{
+    margin-left: 40%;
+    align-items: center;
+    align-content: center;
+    alignment: center;
+    width: fit-content;
+}
+
+button{
+    text-decoration: none;
+    height: 30px;
+    border-radius: 8px;
+    background-color: aquamarine;
+}
